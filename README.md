@@ -1,6 +1,6 @@
 This is a simple project to provide a basic set of entities mapped to a relational DB, and to provide a basic REST API.
 
-It has no access control, no pagination, and it does not have endpoints for all of the entities. If you want to see how it could be if I had done it all, take a look at this (Java+Spring boot project)[https://github.com/CaioSteinDAgostini/fabula].
+It has no access control, no pagination, and it does not have endpoints for all of the entities. If you want to see how it could be if I had done it all, take a look at this [Java+Spring boot project](https://github.com/CaioSteinDAgostini/fabula).
 
 ## What it covers
 
